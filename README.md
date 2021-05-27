@@ -5,4 +5,5 @@
 - 🖥 Programo em Python 🔥
 - 📘 Estudo na FIRJAN SENAI
 ### 🔗Minhas redes sociais ⤵
-[Twitter] (https://twitter.com/Hagasha223) / [ E-mail] (rayandinizsilva1@gmail.com)      
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hagasha223)](https://twitter.com/hagasha223)
+ 
