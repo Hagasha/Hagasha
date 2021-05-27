@@ -4,3 +4,5 @@
 - 💻Atualmente estou cursando o curso de Desenvolvimento de Sistemas
 - 🖥 Programo em Python 🔥
 - 📘 Estudo na FIRJAN SENAI
+### 🔗Minhas redes sociais ⤵
+- [Twitter] (https://twitter.com/Hagasha223) / [ E-mail] (rayandinizsilva1@gmail.com)      
