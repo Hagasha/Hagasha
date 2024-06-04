@@ -1,9 +1,9 @@
 ### Minha apresentação
-- 😀 Olá eu me chamo Rayan Diniz e tenho 18 anos, gosto bastante de jogos, esportes e filmes.
+- 😀 Olá eu me chamo Rayan Diniz e tenho 19 anos, gosto bastante de jogos, esportes e filmes.
 - 🌎 Sou de Resende, cidade do sul do estado do RJ
 - 💻 Técnico em Desenvolvimento de Sistemas pela Firjan SENAI Resende
 - 📚 Cursando Bacherelado em Sistemas de informação na Unidombosco RJ
-- 🔭 Trabalho na Iochpe-Maxion como jovem aprendiz
+- 🔭 Trabalho na Nissan do Brasil como jovem aprendiz
 
 [![Hagasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagasha&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
