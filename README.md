@@ -6,6 +6,7 @@
 - 🖥️ Sou estagiário de Engenharia de Software na Iochpe-Maxion S.A.
 
 ![Hagasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagasha&theme=github_dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hagasha&size_weight=0.5&count_weight=0.5)
 
 
 ### Aprendendo as linguagens e frameworks:
