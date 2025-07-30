@@ -5,7 +5,7 @@
 - 📚 Cursando Bacherelado em Sistemas de informação na Unidombosco RJ
 - 🖥️ Sou estagiário de Engenharia de Software na Iochpe-Maxion S.A.
 
-![Hagasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagasha&theme=github_dark&show_icons=true) ![Hagasha's TOP Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Hagasha&size_weight=0.2&count_weight=0.2)
+![Hagasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagasha&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true) ![Hagasha's TOP Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Hagasha&layout=compact&theme=github_dark)
 
 
 ### Aprendendo as linguagens e frameworks:
